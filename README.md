@@ -24,8 +24,7 @@ fetch('profile.json')
     document.getElementById('languages').textContent = data.technologies.languages.join(', ');
     document.getElementById('frameworks').textContent = data.technologies.frameworks.join(', ');
     document.getElementById('tools').textContent = data.technologies.tools.join(', ');
-  })
-  .catch(error => console.error('Error fetching profile data:', error));
+ 
 
 <!--
 **exploratoryprorammer/exploratoryprorammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
