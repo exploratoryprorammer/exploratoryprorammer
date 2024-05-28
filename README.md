@@ -1,17 +1,28 @@
-## Hi there! My name is Rohan Sah
-## About Me
-## I go to school @ Iowa State University for computer science and applied mathematics. 
+Hey there! 👋 I'm [Your Name]
+About Me
+I'm a passionate college student on a journey to explore the exciting world of coding, design, and innovation. Currently pursuing my degree in [Your Major] at [Your University], I'm deeply fascinated by the intersection of technology and creativity.
 
-**exploratoryprorammer/exploratoryprorammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 What I'm Up To
+📚 Studying hard to ace my classes
+💻 Working on cool side projects to hone my skills
+🎨 Designing eye-catching interfaces and graphics
+📝 Writing tech blogs and sharing my learnings
+🌱 My Interests
+🧠 Artificial Intelligence
+🌐 Web Development
+🎮 Game Design
+📸 Digital Art
+💼 My Skills
+Languages: HTML, CSS, JavaScript, Python, Java
+Frameworks: React, Node.js
+Tools: Photoshop, Illustrator, Figma
+Other: Git, GitHub, UI/UX Design
+🤝 Let's Connect
+📧 Email: your@email.com
+💼 LinkedIn: linkedin.com/in/yourprofile
+🌐 Portfolio: yourportfolio.com
+📈 GitHub Stats
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🎉 Fun Fact
+I'm a coffee enthusiast ☕️ who believes that every line of code is a step towards building a better future!
