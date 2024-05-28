@@ -1,11 +1,11 @@
-Hey there! 👋 I'm [Your Name]
-About Me
-I'm a passionate college student on a journey to explore the exciting world of coding, design, and innovation. Currently pursuing my degree in [Your Major] at [Your University], I'm deeply fascinated by the intersection of technology and creativity.
+## Hey there! 👋 I'm Rohan 
+## About Me
+## I'm a passionate college student on a journey to explore the exciting world of coding, design, and innovation. Currently pursuing my degree in Computer Science and Applied Mathematics at Iowa State University. I'm deeply fascinated by the intersection of technology and creativity.
 
 🚀 What I'm Up To
-📚 Studying hard to ace my classes
-💻 Working on cool side projects to hone my skills
-🎨 Designing eye-catching interfaces and graphics
+- 📚 Studying hard to ace my classes
+- 💻 Working on cool side projects to hone my skills
+- 🎨 Designing eye-catching interfaces and graphics
 📝 Writing tech blogs and sharing my learnings
 🌱 My Interests
 🧠 Artificial Intelligence
