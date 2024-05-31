@@ -11,7 +11,7 @@ I'm a passionate college student on a journey to explore the exciting world of c
 - 🧠 Machine Learning 
 - 🌐 Web Development
 - 🎮 Game Design
-- 📚 Books
+- 📚 Reading
 ## 💼 My Skills
 - Languages: HTML, CSS, JavaScript, Python, Java, Swift
 - Frameworks: Spring Boot, Django
