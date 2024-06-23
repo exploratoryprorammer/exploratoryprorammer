@@ -13,9 +13,9 @@ I'm a passionate college student on a journey to explore the exciting world of c
 - 🎮 Game Design
 - 📚 Reading
 ## TECH STACKS
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,sass,&perline=6)](https://skillicons.dev)"\n"
-[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,c,&perline=4)](https://skillicons.dev)"\n"
-[![My Skills](https://skillicons.dev/icons?i=idea,&perline=4)](https://skillicons.dev)"\n"
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,sass,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,py,cpp,c,&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=idea,&perline=4)](https://skillicons.dev)
 
 
 - Frameworks: Spring Boot, Django
