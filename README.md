@@ -13,7 +13,7 @@ I'm a passionate college student on a journey to explore the exciting world of c
 - 🎮 Game Design
 - 📚 Reading
 ## TECH STACKS
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,sass,flutter&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nodejs,sass,flutter&perline=6)]
 
 
 - Frameworks: Spring Boot, Django
