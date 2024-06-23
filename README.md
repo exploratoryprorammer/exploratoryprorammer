@@ -13,7 +13,8 @@ I'm a passionate college student on a journey to explore the exciting world of c
 - 🎮 Game Design
 - 📚 Reading
 ## 💼 My Skills
-- Languages: HTML, CSS, JavaScript, Python, Java, Swift
+- Languages: <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5 Logo" width="100">
+, CSS, JavaScript, Python, Java, Swift
 - Frameworks: Spring Boot, Django
 ## 🤝 Let's Connect
 - 📧 Email: rohan.k.sah@gmail.com
