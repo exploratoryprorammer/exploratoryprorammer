@@ -13,9 +13,9 @@ I'm a passionate college student on a journey to explore the exciting world of c
 - 🎮 Game Design
 - 📚 Reading
 ## TECH STACKS
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,html,css,js,&perline=6)](https://skillicons.dev) <br />
-[![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,jquery,sass,&perline=5)](https://skillicons.dev) <br />
-[![My Skills](https://skillicons.dev/icons?i=spring,django,nodejs,mysql,mongodb,&perline=5)](https://skillicons.dev) <br />
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,html,css,js,&perline=6)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,jquery,sass,&perline=5)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=spring,django,nodejs,mysql,mongodb,&perline=5)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=idea,eclipse,visualstudio&perline=3)](https://skillicons.dev)
 
 
