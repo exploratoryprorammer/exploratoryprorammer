@@ -1,27 +1,23 @@
 ## Hey there! 👋 I'm Rohan 
 ## ABOUT ME
-I'm a passionate college student on a journey to explore the exciting world of coding, design, and innovation. Currently pursuing my degree in Computer Science and Applied Mathematics at Iowa State University. I'm deeply fascinated by the intersection of technology and creativity.
-
-## 🚀 CURRENTLY WORKING ON...
-- 📚 Taking coursework on Algorithms, Data Structures, and Machine Learning
-- 💻 Working on cool side projects to hone my skills
-- 🎨 Grinding LeetCode
-- 📝 Writing tech blogs and sharing my learnings @ codingwithrohansah.blogspot.com 
-## 🌱 INTERESTS
-- 🧠 Machine Learning 
-- 🌐 Web Development
-- 🎮 Game Design
-- 📚 Reading
+I am a SWE @ John Deere, CS student @ ISU, AI/ML Researcher @ UCSF. I am interesteding in distributed systems, machine learning, and full-stack software engineering. 
+## Cool Project To Check Out
+- Federated Learning Platform: Utilizing distributed to enable privacy-preserving machine learning on decentralized data sources without ever moving raw data from edge devices
 ## TECH STACKS
-[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,html,css,js,&perline=6)](https://skillicons.dev) <br />
-[![My Skills](https://skillicons.dev/icons?i=react,redux,bootstrap,jquery,sass,&perline=5)](https://skillicons.dev) <br />
-[![My Skills](https://skillicons.dev/icons?i=spring,django,nodejs,mysql,mongodb,&perline=5)](https://skillicons.dev) <br />
-[![My Skills](https://skillicons.dev/icons?i=idea,eclipse,visualstudio&perline=3)](https://skillicons.dev)
 
+### 💻 Languages & Databases
+[![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,ts,go,rust&perline=7)](https://skillicons.dev) <br />
+[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=4)](https://skillicons.dev)
 
+### 🌐 Frontend & Web Development
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,html,css,sass,tailwind,bootstrap,jquery&perline=5)](https://skillicons.dev)
 
-- Frameworks: Spring Boot, Django
-## 🤝 Let's Connect
-- 📧 Email: rohan.k.sah@gmail.com
-- 💼 LinkedIn: linkedin.com/in/rohansah
+### ⚙️ Backend & Machine Learning
+[![My Skills](https://skillicons.dev/icons?i=spring,django,nodejs,express,pytorch&perline=5)](https://skillicons.dev)
+
+### ☁️ Cloud & DevOps (IaC)
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,terraform,githubactions,jenkins,docker&perline=6)](https://skillicons.dev)
+
+### 🛠️ Tools & Environments
+[![My Skills](https://skillicons.dev/icons?i=idea,vscode,visualstudio,eclipse,figma,postman&perline=6)](https://skillicons.dev)
   
