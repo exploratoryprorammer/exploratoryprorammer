@@ -1,4 +1,4 @@
-## Hey there! 👋 I'm Rohan 
+## Hey! 👋 I'm Rohan 
 ## ABOUT ME
 I am interesteding in distributed systems, machine learning, and full-stack software engineering. 
 ## Cool Project To Check Out
