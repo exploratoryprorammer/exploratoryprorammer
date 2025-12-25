@@ -5,6 +5,6 @@ I am a SWE @ John Deere, CS student @ ISU, AI/ML Researcher @ UCSF. I am interes
 - Federated Learning Platform: Utilizing distributed to enable privacy-preserving machine learning on decentralized data sources without ever moving raw data from edge devices
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=java,react,python,cpp,js,ts,go,rust,aws,azure,terraform,c,docker&perline=7)](https://skillicons.dev) <br />
+[![My Skills](https://skillicons.dev/icons?i=java,react,python,c,cpp,js,ts,go,rust,aws,azure,terraform,docker&perline=7)](https://skillicons.dev) <br />
 
   
