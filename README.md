@@ -7,10 +7,10 @@ I am a SWE @ John Deere, CS student @ ISU, AI/ML Researcher @ UCSF. I am interes
 
 ### 💻 Languages & Databases
 [![My Skills](https://skillicons.dev/icons?i=java,python,cpp,js,ts,go,rust&perline=7)](https://skillicons.dev) <br />
-[![My Skills](https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&perline=4)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=postgres,mongodb&perline=4)](https://skillicons.dev)
 
 ### 🌐 Frontend & Web Development
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,redux,html,css,sass,tailwind,bootstrap,jquery&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,jquery&perline=5)](https://skillicons.dev)
 
 ### ⚙️ Backend & Machine Learning
 [![My Skills](https://skillicons.dev/icons?i=spring,django,nodejs,express,pytorch&perline=5)](https://skillicons.dev)
