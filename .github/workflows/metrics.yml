@@ -1,12 +1,16 @@
-name: Metrics
+name: Half-year calendar
 on:
   schedule: [{cron: "0 0 * * *"}] # Runs daily
   workflow_dispatch: 
+permissions:
+  contents: write
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
       - uses: lowlighter/metrics@latest
         with:
+          filename: metrics.plugin.isocalendar.svg
           token: ${{ secrets.METRICS_TOKEN }}
-
+          base: ""
+          plugin_isocalendar: yes
