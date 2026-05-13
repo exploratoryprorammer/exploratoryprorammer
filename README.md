@@ -12,8 +12,8 @@ I am interesteding in distributed systems, cloud computing, machine learning, an
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=java,react,python,c,cpp,js,ts,go,rust,aws,azure,terraform,docker&perline=7)](https://skillicons.dev) <br />
 
-###Isometric Contibution Calendar
-
+### Isometric Contibution Calendar
+![Metrics](/github-metrics.svg)
 
 
   
