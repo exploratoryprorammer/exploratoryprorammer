@@ -1,4 +1,4 @@
-<img width="3840" height="3840" alt="image" src="" />
+<img width="800" height="360" alt="image" src="" />
 
 
 
@@ -26,7 +26,7 @@ I am interesteding in distributed systems, cloud computing, machine learning, an
 <img src="https://github.com/user-attachments/assets/bb95f1d4-4b10-4fe1-a2c3-2556540aa30a" width="100">
 <img src="https://github.com/user-attachments/assets/499cfdbd-d011-4e5e-af0c-3e6b0896e60c" width="100">
 
-<img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
+<img src="https://github.com/user-attachments/assets/b74b9706-9cc8-44b5-97d7-cacc4b1be241" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212280823-79088828-a258-4a4d-8d6c-96315d5a07af.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
