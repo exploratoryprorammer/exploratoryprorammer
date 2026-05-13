@@ -1,10 +1,8 @@
-<img width="248" height="203" alt="image" src="" />
-<img width="248" height="203" alt="image" src="" />
 
 
 
 
-## Hey! 👋 I'm Rohan 
+## Hey! 👋 I'm Rohan, meet my octocat!
 <img width="2000" height="2000" alt="octocat-1778658425132" src="https://github.com/user-attachments/assets/0d643a14-f6cb-4508-94ff-e8a848962aca" />
 
 ## ABOUT ME
