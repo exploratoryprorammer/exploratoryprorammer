@@ -1,7 +1,9 @@
 <div align="center">
+  
+  # Hey! 👋 I'm Rohan, meet my octocat!
+  
   <img width="600" alt="octocat" src="https://github.com/user-attachments/assets/0d643a14-f6cb-4508-94ff-e8a848962aca" />
 
-  # Hey! 👋 I'm Rohan, meet my octacat!
 </div>
 
 ---
