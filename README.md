@@ -1,6 +1,7 @@
 <img width="335" height="150" alt="image" src="https://github.com/user-attachments/assets/717a8f3f-dd9b-4a0e-8059-6abc921a4b10" />
 <img width="678" height="677" alt="image" src="https://github.com/user-attachments/assets/36494fe6-ccb8-4502-9a08-675fe77be2e3" />
 <img width="800" height="360" alt="image" src="https://github.com/user-attachments/assets/432392d7-bff9-49c1-92a5-50ee2a4bd75b" />
+<img width="276" height="262" alt="image" src="https://github.com/user-attachments/assets/a43822ba-e303-4fa4-86d5-bfb95460b3cc" />
 
 
 
@@ -35,18 +36,13 @@ I am interesteding in distributed systems, cloud computing, machine learning, an
 <img src="https://github.com/user-attachments/assets/499cfdbd-d011-4e5e-af0c-3e6b0896e60c" width="100">
 
 <img src="https://github.com/user-attachments/assets/432392d7-bff9-49c1-92a5-50ee2a4bd75b" width="100">
-<img src="https://github.com/user-attachments/assets/5c66cb17-fa18-49c1-bc7f-0361007b9dd1" width="100">
+<img src="https://github.com/user-attachments/assets/a43822ba-e303-4fa4-86d5-bfb95460b3cc" width="100">
 <img src="https://github.com/user-attachments/assets/bac63375-40dd-4bd7-b392-301567447081" width="100">
 <img src="https://github.com/user-attachments/assets/101b92d4-3361-424a-87c3-da07a553e8a6" width="100">
 <img src="https://github.com/user-attachments/assets/36494fe6-ccb8-4502-9a08-675fe77be2e3" width="100">
 <img src="https://github.com/user-attachments/assets/a2fd504c-f64a-4810-b19a-aa0f31fa8c7c" width="100">
   
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/1a797f46-efe4-41e6-9e75-5303e1bbcbfa" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/29fd6286-4e7b-4d6c-818f-c4765d5e39a9" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/67f477ed-6624-42da-99f0-1a7b1a16eecb" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3c16d4f2-b757-4c70-8f42-43d5dddd2c36" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/3fb2cdf6-8920-462e-87a4-95af376418aa" width="100">
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de038172-e903-4951-926c-755878deb0b4" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/398b19b1-9aae-4c1f-8bc0-d172a2c08d68" width="100">
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/e0d299f2-767c-4c21-bd49-90f2a19f1a78" width="100">
 </div>
