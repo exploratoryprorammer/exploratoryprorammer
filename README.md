@@ -19,7 +19,7 @@
 ## Currently I am working on...
 
 -  Building full-stack software @ **John Deere Financial**
--  Researching machine learning algorithms to simulate and optimize treatment planning for IBD patients @ **The University of California, San Francisco**
+-  Researching AI/ML to simulate and optimize treatment planning for IBD patients @ **The University of California, San Francisco**
 -  Scaling and maintaining software @ **Indu Sah Foundation**
 -  Developing a Raft algorithm simulator with Rust and C++
 -  Learning system design best practices
