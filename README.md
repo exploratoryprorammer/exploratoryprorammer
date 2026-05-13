@@ -1,7 +1,5 @@
-<img width="1440" height="810" alt="image" src="https://github.com/user-attachments/assets/504a2f42-f316-464c-849a-5388038bdf2b" />
-<img width="960" height="960" alt="image" src="" />
-<img width="3840" height="1434" alt="image" src="" />
-<img width="800" height="360" alt="image" src="" />
+<img width="335" height="150" alt="image" src="https://github.com/user-attachments/assets/717a8f3f-dd9b-4a0e-8059-6abc921a4b10" />
+
 
 
 
@@ -29,10 +27,10 @@ I am interesteding in distributed systems, cloud computing, machine learning, an
 <img src="https://github.com/user-attachments/assets/bb95f1d4-4b10-4fe1-a2c3-2556540aa30a" width="100">
 <img src="https://github.com/user-attachments/assets/499cfdbd-d011-4e5e-af0c-3e6b0896e60c" width="100">
 
-<img src="https://github.com/user-attachments/assets/8f154122-1892-4958-9332-a8dbf0414688" width="100">
+<img src="https://github.com/user-attachments/assets/717a8f3f-dd9b-4a0e-8059-6abc921a4b10" width="100">
 <img src="https://github.com/user-attachments/assets/5c66cb17-fa18-49c1-bc7f-0361007b9dd1" width="100">
-<img src="https://github.com/user-attachments/assets/504a2f42-f316-464c-849a-5388038bdf2b" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212281763-e6ecd7ef-c4aa-45b6-a97c-f33f6bb592bd.gif" width="100">
+<img src="https://github.com/user-attachments/assets/bac63375-40dd-4bd7-b392-301567447081" width="100">
+<img src="https://github.com/user-attachments/assets/101b92d4-3361-424a-87c3-da07a553e8a6" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width="100">
   
