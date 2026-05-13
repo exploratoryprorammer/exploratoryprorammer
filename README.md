@@ -21,12 +21,13 @@
 -  Developing a Raft algorithm simulator with Rust and C++
 -  Learning system design best practices
 -  Grinding LeetCode
+-  Researching how I can use machine learning to optimize and refine treating IBD patients
 
 ---
 
 ## Check out what I built!
 
-- **Federated Learning Platform** — Utilizing distributed systems to enable privacy-preserving machine learning on decentralized data sources without ever moving raw data from edge devices
+- [**Federated Learning Platform**](https://github.com/exploratoryprorammer/Federated-Learning-Platform) — Utilizing distributed systems to enable privacy-preserving machine learning on decentralized data sources without ever moving raw data from edge devices
 
 ---
 
