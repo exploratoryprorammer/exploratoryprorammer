@@ -1,4 +1,5 @@
-<img width="400" height="400" alt="image" src="https://github.com/user-attachments/assets/60bc5b12-dfe9-4f7c-9fe2-8058a1dba96a" />
+<img width="480" height="480" alt="image" src="https://github.com/user-attachments/assets/bb95f1d4-4b10-4fe1-a2c3-2556540aa30a" />
+
 
 
 ## Hey! 👋 I'm Rohan 
@@ -21,7 +22,7 @@ I am interesteding in distributed systems, cloud computing, machine learning, an
 <img src="https://github.com/user-attachments/assets/ae526e58-1f54-4ddd-84c9-88564e3b53b9" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257467-871d32b7-e401-42e8-a166-fcfd7baa4c6b.gif" width="100">
 <img src="https://github.com/user-attachments/assets/60bc5b12-dfe9-4f7c-9fe2-8058a1dba96a" width="100">
-<img src="https://user-images.githubusercontent.com/74038190/212257463-4d082cb4-7483-4eaf-bc25-6dde2628aabd.gif" width="100">
+<img src="https://github.com/user-attachments/assets/bb95f1d4-4b10-4fe1-a2c3-2556540aa30a" width="100">
 <img src="https://user-images.githubusercontent.com/74038190/212257460-738ff738-247f-4445-a718-cdd0ca76e2db.gif" width="100">
 
 <img src="https://user-images.githubusercontent.com/74038190/212281756-450d3ffa-9335-4b98-a965-db8a18fee927.gif" width="100">
