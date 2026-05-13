@@ -26,7 +26,7 @@
 -  Grinding LeetCode
 -  A very difficult/interesting project....
 -  Cramming for exams
--  Trying to run >= 30 mins daily && Lift somewhat consistently
+-  Trying to run >= 30 mins daily
 
 
 ---
