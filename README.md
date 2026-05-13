@@ -10,7 +10,7 @@
 
 ## Interests
 
-- 🖧Distributed Systems
+-  Distributed Systems
 -  Cloud Computing
 -  Machine Learning
 -  Full-Stack Software Engineering
