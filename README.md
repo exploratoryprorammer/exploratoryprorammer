@@ -21,11 +21,12 @@
 -  Building full-stack software at John Deere Financial
 -  Scaling and maintaining software for the Indu Sah Foundation
 -  Researching machine learning algorithms to simulate and optimize treatment planning for IBD patients @ UCSF 
--  Cramming for exams
 -  Developing a Raft algorithm simulator with Rust and C++
 -  Learning system design best practices
 -  Grinding LeetCode
 -  A very difficult/interesting project....
+-  Cramming for exams
+-  Trying to run >= 30 mins daily && Lift somewhat consistently
 
 
 ---
