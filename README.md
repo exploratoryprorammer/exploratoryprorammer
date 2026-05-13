@@ -25,6 +25,7 @@
 -  Developing a Raft algorithm simulator with Rust and C++
 -  Learning system design best practices
 -  Grinding LeetCode
+-  A very difficult/interesting project....
 
 
 ---
