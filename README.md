@@ -8,13 +8,15 @@
 
 ---
 
-## About Me
+## Interests
 
-I am interested in distributed systems, cloud computing, machine learning, and full-stack software engineering.
-
+- 🖧Distributed Systems
+-  Cloud Computing
+-  Machine Learning
+-  Full-Stack Software Engineering
 ---
 
-## Currently Working On
+## Currently I am working on...
 
 -  Developing a Raft algorithm simulator with Rust and C++
 -  Learning system design best practices
@@ -22,13 +24,13 @@ I am interested in distributed systems, cloud computing, machine learning, and f
 
 ---
 
-## Cool Projects To Check Out
+## Check out what I built!
 
 - **Federated Learning Platform** — Utilizing distributed systems to enable privacy-preserving machine learning on decentralized data sources without ever moving raw data from edge devices
 
 ---
 
-## 🛠️ Skills
+## My Skills
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/eaed9c76-2b12-4291-9b9f-f131e8d57103" width="100">
