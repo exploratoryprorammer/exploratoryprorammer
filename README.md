@@ -1,4 +1,6 @@
 ## Hey! 👋 I'm Rohan 
+<img width="2000" height="2000" alt="octocat-1778658425132" src="https://github.com/user-attachments/assets/0d643a14-f6cb-4508-94ff-e8a848962aca" />
+
 ## ABOUT ME
 I am interesteding in distributed systems, cloud computing, machine learning, and full-stack software engineering. 
 ## I am currently working on
