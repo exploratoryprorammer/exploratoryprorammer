@@ -22,7 +22,7 @@
 -  Researching AI/ML to simulate and optimize treatment planning for IBD patients @ **The University of California, San Francisco**
 -  Scaling and maintaining software @ **Indu Sah Foundation**
 -  Developing a Raft algorithm simulator with Rust and C++
--  Learning system design best practices
+-  Learning how to design scalable software systems
 -  Grinding LeetCode
 -  A very difficult/interesting project....
 -  Cramming for exams
