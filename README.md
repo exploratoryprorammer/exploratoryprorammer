@@ -17,15 +17,14 @@
 ---
 
 ## Currently I am working on...
-
 -  Building full-stack software @ **John Deere Financial**
 -  Researching AI/ML to simulate and optimize treatment planning for IBD patients @ **The University of California, San Francisco**
 -  Scaling and maintaining software @ **Indu Sah Foundation**
+-  Cramming for exams @ **Iowa State University**
 -  Developing a Raft algorithm simulator with Rust and C++
 -  Learning how to design scalable software systems
 -  Grinding LeetCode
 -  A very difficult/interesting project....
--  Cramming for exams
 -  Trying to run >= 30 mins daily
 
 
