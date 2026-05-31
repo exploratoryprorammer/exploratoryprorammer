@@ -33,7 +33,7 @@
 ## Check out what I built!
 
 - [**Federated Learning Platform**](https://github.com/exploratoryprorammer/Federated-Learning-Platform) — Utilizing distributed systems to enable privacy-preserving machine learning on decentralized data sources without ever moving raw data from edge devices
-- [**Indu Sah Foundation Software**](https://github.com/orgs/Indu-Sah-Foundation/repositories) — (~13.2 k lines) Built Azure infrastructure with Terraform + high performant Go backend + Responsive React Frontend
+- [**Indu Sah Foundation Software**](https://github.com/orgs/Indu-Sah-Foundation/repositories) — (~14.1 k lines) Built Azure infrastructure with Terraform + high performant Go backend + Responsive React Frontend
 ---
 
 ## My Skills
