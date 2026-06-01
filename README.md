@@ -35,6 +35,8 @@
 
 - [**Federated Learning Platform**](https://github.com/exploratoryprorammer/Federated-Learning-Platform) — Utilizing distributed systems to enable privacy-preserving machine learning on decentralized data sources without ever moving raw data from edge devices
 - [**Indu Sah Foundation Software**](https://github.com/orgs/Indu-Sah-Foundation/repositories) — (~14.1 k lines) Built Azure infrastructure with Terraform + high performant Go backend + Responsive React Frontend
+- [**Distributed KV Store**](https://github.com/sah-rohan/Dirtributed-KV-Store) — Fault-tolerant distributed key-value store in Go implementing the Raft consensus protocol for leader election, log replication, and automatic failover across a replicated cluster
+- [**Grover's Algorithm SAT Solver**](https://github.com/sah-rohan/quantumcomputing-groversalgorithm) — Quantum 3-SAT solver built in Qiskit using Grover's algorithm with custom phase-kickback oracles and amplitude amplification, achieving quadratic speedup over classical brute-force search
 ---
 
 ## My Skills
