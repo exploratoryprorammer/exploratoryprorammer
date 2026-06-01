@@ -14,6 +14,7 @@
 -  Cloud Computing
 -  Machine Learning
 -  Full-Stack Software Engineering
+-  Quantum Computing 
 ---
 
 ## Currently I am working on...
